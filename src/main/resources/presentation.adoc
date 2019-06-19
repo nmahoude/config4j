@@ -1,0 +1,4 @@
+= Presentation of config4j
+
+== Reading from file
+  as json file
